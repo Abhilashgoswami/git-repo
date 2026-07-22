@@ -2,3 +2,4 @@
 This is dummy B. 
 Hello world, how are you? 
 I am learning git and this is my test file.
+yes, alright

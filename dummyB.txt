@@ -1,1 +1,3 @@
-This is also a dummy B.
+
+This is dummy B. 
+>>>>>>> ruby
